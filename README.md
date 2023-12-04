@@ -20,3 +20,7 @@ from itertools import chain
 import string
 
 the full code to the conclusions are in the last update to the project for those who want to see.
+
+In case the pdf isnt available, the presentation aslo exists as a slieshow on google Docs:
+
+https://docs.google.com/presentation/d/1Nvx1yNLx2wa4tMaZpQIQMuc-VaHFTja0LRXyRnZpTJM/edit?usp=sharing
